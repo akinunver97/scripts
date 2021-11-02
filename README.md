@@ -1,3 +1,3 @@
 # Scripts
 
-Scripts that automates portercy. :)
+Scripts that automates boring tasks. :)
