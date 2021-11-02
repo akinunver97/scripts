@@ -3,6 +3,8 @@
 #This script is written for checking packages. 
 #If the system does not have it, it installs via apt. So this script is only for debian based distrubitions.
 #Also installed packages are logged into /var/log/installed-packages.log.
+#Written by Akin Unver.
+
 
 #ADD PACKAGES INTO ARRAY
 packagesArray=(
